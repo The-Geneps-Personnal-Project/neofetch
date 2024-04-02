@@ -5610,6 +5610,35 @@ ${c3}       .....   ${c5}.;dk:.   ${c5}lkk.  ${c4}:;,
 EOF
         ;;
 
+                "Genep"*)
+            set_colors 1 3 4 2 6
+            read -rd '' ascii_data <<'EOF'
+               __
+              )==(
+              )==(
+              |H |
+              |H |
+              |H |
+             /====\
+            / Dr S \
+           /========\
+          :HHHHHHHH H:
+          |HHHHHHHH H|
+          |HHHHHHHH H|
+          |HHHHHHHH H|
+   \______|=/========\________/
+    \     :/oO/      |\      /
+     \    / oOOO  Le | \    /
+      \__/| OOO Genep|  \__/
+       )( |  O       |   )(
+       )( |==========|   )(
+       )( |HHHHHHHH H|   )(
+       )( |HHHHHHHH H|   )(
+      .)(.|HHHHHHHH H|  .)(.
+     ~~~~~~~~~~~~~~~~  ~~~~~~
+EOF
+        ;;
+
         "alpine_small")
             set_colors 4 7
             read -rd '' ascii_data <<'EOF'
