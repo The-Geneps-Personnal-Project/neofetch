@@ -5532,26 +5532,26 @@ get_distro_ascii() {
                __
               )==(
               )==(
-              |H |
-              |H |
-              |H |
+              |  |
+              |  |
+              |  |
              /====\
-            / Dr S \
+            /Genepi\
            /========\
-          :${c4}HHHHHHHH H${c5}:
-          |${c4}HHHHHHHH H${c5}|
-          |${c4}HHHHHHHH H${c5}|
-          |${c4}HHHHHHHH H${c5}|
+          :${c4}GGGGGGGG G${c5}:
+          |${c4}GGGGGGGG G${c5}|
+          |${c4}GGGGGGGG G${c5}|
+          |${c4}GGGGGGGG G${c5}|
           |==========|
-          | oO       |
-          | oOOO  Le |
-          | OOO Genep|
-          |  O       |
-  ________|==========|________
-  \      /|${c4}HHHHHHHH H${c5}|\      /
-   \    / |${c4}HHHHHHHH H${c5}| \    /
-    \__/  |${c4}HHHHHHHH H${c5}g|  \__/
-     ~~~~~~~~~~~~~~~~  ~~~~~~
+          |   Le     |
+          |  Petit   |
+          |  Genep   |
+          |==========|
+  ________|${c4}GGGGGGGG G${c5}|________
+  \      /|${c4}GGGGGGGG G${c5}|\      /
+   \${c4}####${c5}/ |${c4}GGGGGGGG G${c5}| \${c4}####${c5}/
+    \${c4}##${c5}/  |${c4}GGGGGGGG G${c5}|  \${c4}##${c5}/
+     ¯¯  ~~~~~~~~~~~~~~  ¯¯
 EOF
         ;;
 
