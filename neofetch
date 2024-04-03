@@ -5626,15 +5626,15 @@ EOF
           |HHHHHHHH H|
           |HHHHHHHH H|
           |HHHHHHHH H|
-   \______|=/========\________/
-    \     :/oO/      |\      /
-     \    / oOOO  Le | \    /
-      \__/| OOO Genep|  \__/
-       )( |  O       |   )(
-       )( |==========|   )(
-       )( |HHHHHHHH H|   )(
-       )( |HHHHHHHH H|   )(
-      .)(.|HHHHHHHH H|  .)(.
+          |==========|
+          | oO       |
+          | oOOO  Le |
+          | OOO Genep|
+          |  O       |
+  ________|==========|________
+  \      /|HHHHHHHH H|\      /
+   \    / |HHHHHHHH H| \    /
+    \__/  |HHHHHHHH H|  \__/
      ~~~~~~~~~~~~~~~~  ~~~~~~
 EOF
         ;;
